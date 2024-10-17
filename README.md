@@ -23,7 +23,8 @@ Welcome to my GitHub profile, where **DevOps meets humor**, and **automation** i
 ## Want to learn more?
 
 <a href="https://app.daily.dev/tunasakar"><img src="https://api.daily.dev/devcards/v2/lEft7xC6Agc2SmV6Tbd4H.png?type=wide&r=y7n" width="652" alt="Tuna Sakar's Dev Card"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67111f25791f57dd6087f592?variant=dark" alt="roadmap.sh"/></a>
 ---
-[![roadmap.sh](https://roadmap.sh/card/tall/67111f25791f57dd6087f592?variant=dark)](https://roadmap.sh)
+
 
 Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi! 🎉
