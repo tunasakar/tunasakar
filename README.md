@@ -1,5 +1,8 @@
 # Hi there! 👋 I'm Tuna Sakar 🐟
 
+
+<a href="https://app.daily.dev/tunasakar"><img src="https://api.daily.dev/devcards/v2/lEft7xC6Agc2SmV6Tbd4H.png?type=wide&r=y7n" width="652" alt="Tuna Sakar's Dev Card"/></a>
+
 Welcome to my GitHub profile, where **DevOps meets humor**, and **automation** is the name of the game! When I'm not wrangling clouds, building pipelines, or pushing code, you can probably find me sipping coffee and automating _literally_ everything. ☕🤖
 
 ## A bit about me...
@@ -20,10 +23,6 @@ Welcome to my GitHub profile, where **DevOps meets humor**, and **automation** i
 - **TCP/IP** 📡 – The real magic behind the internet. I keep the network gods happy.
 - **Zabbix** 📊 – Monitoring like a pro, because if you can’t measure it, it didn’t happen.
 
-## Want to learn more?
-
-<a href="https://app.daily.dev/tunasakar"><img src="https://api.daily.dev/devcards/v2/lEft7xC6Agc2SmV6Tbd4H.png?type=wide&r=y7n" width="652" alt="Tuna Sakar's Dev Card"/></a>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67111f25791f57dd6087f592?variant=dark" alt="roadmap.sh"/></a>
 ---
 
 
