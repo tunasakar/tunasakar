@@ -14,7 +14,7 @@ Welcome to my GitHub profile, where **DevOps meets humor**, and **automation** i
 - **Git** 💾 – Code is life. Push, pull, merge, conquer.
 - **HashiCorp & Terraform** 🌍 – Infrastructure as code... or as I like to call it, "Lego for grown-ups."
 - **Kubernetes / Rancher / Red Hat OpenShift** 🧱 – Because managing a single cluster is just too boring.
-- **SSL / KeyCloak / LDAP** 🔐 – Because security should never be an afterthought.
+- **SSL / KeyCloak / LDAP** 🔐 – Because security isn’t like adding sprinkles on a cake after it’s baked. You can’t call it an MVP if it’s just "Mostly Vulnerable Product"! No technical debt allowed here.
 - **YAML** 📜 – Writing human-readable code one indent at a time. Clean and crisp.
 - **VMware / Unix / Linux Admin** 💻 – Managing servers like a pro, making sure everything is running smoothly.
 - **TCP/IP** 📡 – The real magic behind the internet. I keep the network gods happy.
