@@ -22,8 +22,7 @@ Welcome to my GitHub profile, where **DevOps meets humor**, and **automation** i
 
 ## Want to learn more?
 
-<a href="https://app.daily.dev/tunasakar"><img src="https://api.daily.dev/devcards/v2/lEft7xC6Agc2SmV6Tbd4H.png?type=default&r=93f" width="356" alt="Tuna Sakar's Dev Card"/></a>
-
+<a href="https://app.daily.dev/tunasakar"><img src="https://api.daily.dev/devcards/v2/lEft7xC6Agc2SmV6Tbd4H.png?type=wide&r=y7n" width="652" alt="Tuna Sakar's Dev Card"/></a>
 ---
 
 Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi! 🎉
