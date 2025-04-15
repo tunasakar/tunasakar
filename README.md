@@ -26,4 +26,4 @@ When I'm not wrangling clouds, building pipelines, or pushing code, you can prob
 
 ---
 
-Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi! 👋
+Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi 👋
