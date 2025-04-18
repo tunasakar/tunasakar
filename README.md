@@ -1,27 +1,62 @@
-## Hi there!
+# About Me
 
-Welcome to my GitHub profile, where **DevOps meets humor**, and **automation** is the name of the game!  
-When I'm not wrangling clouds, building pipelines, or pushing code, you can probably find me sipping coffee and automating _literally_ everything.
+I’m **Tuna** — a **DevOps & Platform Engineer** and **IIoT Enthusiast** — on a lifelong mission to automate anything that moves (and most things that don’t).
 
-## A bit about me...
-
-- **Amazon Web Services (AWS)** – Speaking cloud fluently since... well, forever. If it scales, I'm on it.  
-- **Microsoft Azure** – Cloud computing with a touch of blue! Because who doesn't love a multi-cloud strategy?  
-- **Ansible Automation** – Manual configs? Nah, life's too short for that. Automate all the things!  
-- **Apache / NGINX** – The fearless gatekeepers of the web. If it's traffic, they control it.  
-- **CI/CD** – Always moving forward, one pipeline at a time. Push, pull, deploy, repeat.  
-- **ContainerD / Docker / Podman** – I like my containers how I like my coffee: light, fast, and scalable.  
-- **ELK** – Logs? Check. Metrics? Check. Dashboard? You bet!  
-- **Git** – Code is life. Push, pull, merge, conquer.  
-- **HashiCorp & Terraform** – Infrastructure as code... or as I like to call it, "Lego for grown-ups."  
-- **Kubernetes / Rancher / Red Hat OpenShift** – Because managing a single cluster is just too boring.  
-- **SSL / KeyCloak / LDAP** – Because security isn’t like adding sprinkles on a cake after it’s baked.  
-  You can’t call it an MVP if it’s just "Mostly Vulnerable Product"! No technical debt allowed here.  
-- **YAML** – Writing human-readable code one indent at a time. Clean and crisp.  
-- **VMware / Unix / Linux Admin** – Managing servers like a pro, making sure everything is running smoothly.  
-- **TCP/IP** – The real magic behind the internet. I keep the network gods happy.  
-- **Zabbix** – Monitoring like a pro, because if you can’t measure it, it didn’t happen.
+When I’m not deep in the CI/CD matrix or smoothing out Kubernetes tantrums, you’ll probably find me sipping çay and whispering sweet nothings to my `.bashrc`, while refactoring 10-year-old shell scripts buried somewhere in `/etc/`.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi 👋
+## 💼 Skills Directory
+
+- **AWS** – Speaking cloud fluently since forever. If it scales, I'm on it.  
+- **Azure** – Because why not both?  
+- **Ansible** – Manual configs? Nah, life's too short. Automate everything.  
+- **NGINX / Apache** – Gatekeepers of the web. Traffic control is an art.  
+- **CI/CD** – Push. Pull. Deploy. Repeat. One pipeline to rule them all.  
+- **Docker / Podman / ContainerD** – I like my containers like my cats: fast and flex.  
+- **Go / Python / JS** – From goroutines to async awaits, I speak them all fluently.  
+- **ELK Stack** – Logs, metrics, dashboards — observability on point.  
+- **Git** – Code is life. Merge conflicts are just spicy puzzles.  
+- **Terraform / HashiCorp Stack** – Infrastructure as code aka Lego for grown-ups.  
+- **Kubernetes / Rancher / OpenShift** – Because managing a single cluster is way too boring.  
+- **AuthN / AuthZ / TLS** – Because security isn't a cherry-on-top, it's the cake itself.  
+- **YAML** – Writing human-readable configs one elegant indent at a time.  
+- **Unix/Linux Admin / VMware** – I keep the servers humming and the incidents at bay.  
+- **TCP/IP** – The magical plumbing behind the internet. I try to keep the gremlins out.
+
+---
+
+## 💡 Principle
+
+> **If you don’t have time to build it right today,  
+> you definitely won’t have time to fix it when it blows up in production.**
+
+**MVPs** — or should I say *Mostly Vulnerable Products* — have become the industry’s favorite excuse for cutting corners and calling it “iteration.” But let’s be honest: **technical debt doesn’t wait politely in your backlog** — it accrues like bad interest and bites back at 3 AM.
+
+That’s why I advocate for **MaxVP – Maximum Viable Product**, where viability means:
+
+- Sustainability  
+- Maintainability  
+- And a little bit of pride
+
+Around here, we build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm.
+
+> If you’re going to build it, **build it like someone’s future depends on it** — because it probably does.
+
+---
+
+## 📱 Netstat
+
+If you’re into platform wizardry, IIoT chaos,  
+or you just want to argue whether tabs are better than spaces...
+
+[📇 Connect with me on LinkedIn](https://www.linkedin.com/in/tunasakar)
+
+---
+
+## 🤖 Exit Code
+
+```
+$ Thanks for dropping by.
+  Fork a repo, trigger a workflow, and remember —
+  if you’re not automating something, are you even alive? 😎
