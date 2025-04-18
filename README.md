@@ -4,6 +4,8 @@ I’m **Tuna** — a **DevOps & Platform Engineer** and **IIoT Enthusiast** — 
 
 When I’m not deep in the CI/CD matrix or smoothing out Kubernetes tantrums, you’ll probably find me sipping çay and whispering sweet nothings to my `.bashrc`, while refactoring 10-year-old shell scripts buried somewhere in `/etc/`.
 
+[📇 Connect with me on LinkedIn](https://www.linkedin.com/in/tunasakar)
+
 ---
 
 ## 💼 Skills Directory
@@ -28,18 +30,24 @@ When I’m not deep in the CI/CD matrix or smoothing out Kubernetes tantrums, yo
 
 ## 💡 Principle
 
-**If you don’t have time to build it right today, you definitely won’t have time to fix it when it blows up in production.** MVPs — or should I say Mostly Vulnerable Products — have become the industry’s favorite excuse for cutting corners and calling it “iteration.” But let’s be honest: technical debt doesn’t wait politely in your backlog — it accrues like bad interest and bites back at 3 AM. I always say: **your customers aren’t lab rats.** Shipping broken things just to “see what happens” isn’t agility — it’s reckless roulette.
-
-That’s why I advocate for MaxVP — Maximum Viable Product — where viability means sustainability, maintainability, and a little bit of pride. Around here, we build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm. Because if you’re going to build it, build it like someone’s future depends on it — because it probably does.
+> Whatever you do — if you don't have time to build it right today, you certainly won't have time to fix it when it blows up in production.  
+>
+> MVPs — or should I say *Mostly Vulnerable Products* — have become the industry’s favorite excuse for cutting corners and calling it “iteration.” But let’s face it: technical debt doesn’t sit politely in your savings account — it compounds like bad interest and bites back at 3 AM.  
+>
+> I believe customers aren’t lab rats. Shipping broken things just to “see what happens” isn’t agility — it’s reckless roulette.  
+>
+> That’s why I advocate for **MaxVP — Maximum Viable Product** — in *everything*. And to me, viability means **sustainability, maintainability, and a little bit of pride**.  
+>
+> I build clean infrastructure, document the messes I inherit, and season my commit messages with just the right amount of sarcasm.  
+>
+> If you're going to build something, build it like **someone’s future depends on it** — because it probably does.
 
 ---
 
-## 📱 Netstat
+## 📡 Netstat
 
 If you’re into platform wizardry, IIoT chaos,  
 or you just want to argue whether tabs are better than spaces...
-
-[📇 Connect with me on LinkedIn](https://www.linkedin.com/in/tunasakar)
 
 ---
 
@@ -49,3 +57,4 @@ or you just want to argue whether tabs are better than spaces...
 $ Thanks for dropping by.
   Fork a repo, trigger a workflow, and remember —
   if you’re not automating something, are you even alive? 😎
+```
