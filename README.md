@@ -28,20 +28,9 @@ When I’m not deep in the CI/CD matrix or smoothing out Kubernetes tantrums, yo
 
 ## 💡 Principle
 
-> **If you don’t have time to build it right today,  
-> you definitely won’t have time to fix it when it blows up in production.**
+**If you don’t have time to build it right today, you definitely won’t have time to fix it when it blows up in production.** MVPs — or should I say Mostly Vulnerable Products — have become the industry’s favorite excuse for cutting corners and calling it “iteration.” But let’s be honest: technical debt doesn’t wait politely in your backlog — it accrues like bad interest and bites back at 3 AM. I always say: **your customers aren’t lab rats.** Shipping broken things just to “see what happens” isn’t agility — it’s reckless roulette.
 
-**MVPs** — or should I say *Mostly Vulnerable Products* — have become the industry’s favorite excuse for cutting corners and calling it “iteration.” But let’s be honest: **technical debt doesn’t wait politely in your backlog** — it accrues like bad interest and bites back at 3 AM.
-
-That’s why I advocate for **MaxVP – Maximum Viable Product**, where viability means:
-
-- Sustainability  
-- Maintainability  
-- And a little bit of pride
-
-Around here, we build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm.
-
-> If you’re going to build it, **build it like someone’s future depends on it** — because it probably does.
+That’s why I advocate for MaxVP — Maximum Viable Product — where viability means sustainability, maintainability, and a little bit of pride. Around here, we build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm. Because if you’re going to build it, build it like someone’s future depends on it — because it probably does.
 
 ---
 
