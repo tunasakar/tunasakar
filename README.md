@@ -8,7 +8,7 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 
 ---
 
-### `$ ls ./skills/`
+### Skills
 
 | Domain | Stack |
 |--------|-------|
@@ -29,7 +29,7 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 
 ---
 
-### `$ echo $MYPRINCIPLE`
+### My Principle
 
 > *If you don't have time to build it right today, you definitely won't have time to fix it when it blows up in production.*
 
@@ -37,7 +37,7 @@ I advocate for **MaxVP — Maximum Viable Product** — where viability means su
 
 ---
 
-### `$ cat /etc/certs/`
+### Certifications
 
 <table>
 <tr>
@@ -61,11 +61,9 @@ I advocate for **MaxVP — Maximum Viable Product** — where viability means su
 
 ---
 
-### `$ netstat -c`
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunasakar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tunasakar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuna@tunasakar.com)
 
 ---
 
