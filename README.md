@@ -1,9 +1,9 @@
 # About Me
-[📇 Connect with me on LinkedIn](https://www.linkedin.com/in/tunasakar)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/tunasakar)
 
 ---
 
-## 💼 Skills Directory
+## Skills Directory
 
 - **AWS**
 - **Azure**
