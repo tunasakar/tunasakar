@@ -14,7 +14,7 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 |--------|-------|
 | **Cloud** | AWS, Azure |
 | **Enterprise AI** | Azure AI Foundry, Amazon Bedrock |
-| **Architecture** | Cloud-Native, API-First, Event-Driven Systems, Distributed Intelligence |
+| **Architecture** | Cloud-Native, API-First, Event-Driven, Distributed Intelligence, AI & Autonomous Systems |
 | **IaC & Config** | Terraform / HashiCorp Stack, Ansible Automation, YAML |
 | **Containers & Orchestration** | Docker / Podman / ContainerD, Kubernetes / Rancher / OpenShift, Hyper-V |
 | **CI/CD** | Jenkins, Pipelines, GitOps, Automated Deployments |
@@ -23,7 +23,7 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 | **Data** | PostgreSQL, MongoDB, InfluxDB |
 | **Observability** | ELK Stack, New Relic |
 | **Security** | AuthN / AuthZ / OAuth2, SSL/TLS, KeyCloak |
-| **AI & Autonomous Systems** | IIoT, Renewable Energy, Distributed Intelligence |
+| **IIoT & Industry** | Industrial IoT, Renewable Energy |
 | **Systems** | Unix/Linux Admin, VMware, TCP/IP |
 | **Version Control** | Git |
 
