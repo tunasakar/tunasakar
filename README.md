@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Tuna</h1>
-<p align="center"><b>DevOps & Platform Engineer | IIoT Enthusiast</b></p>
+<p align="center"><b>Senior DevOps & Platform Engineer | IIoT Enthusiast | Ex-Dev, New-DevEx</b></p>
 <p align="center">
 On a lifelong mission to automate anything that moves — and most things that don't.<br/>
 When I'm not deep in the CI/CD matrix or smoothing out Kubernetes tantrums,<br/>
