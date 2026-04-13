@@ -8,24 +8,16 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 
 ---
 
-### Skills
+### What I Do
 
-| Domain | Stack |
-|--------|-------|
-| **Cloud** | AWS, Azure |
+| | |
+|---|---|
+| **Platform & Cloud** | AWS, Azure, Kubernetes, Terraform, Docker, CI/CD |
+| **Architecture** | Cloud-Native, API-First, Event-Driven, IIoT |
 | **Enterprise AI** | Azure AI Foundry, Amazon Bedrock |
-| **Architecture** | Cloud-Native, API-First, Event-Driven, Distributed Intelligence, AI & Autonomous Systems |
-| **IaC & Config** | Terraform / HashiCorp Stack, Ansible Automation, YAML |
-| **Containers & Orchestration** | Docker / Podman / ContainerD, Kubernetes / Rancher / OpenShift, Hyper-V |
-| **CI/CD** | Jenkins, Pipelines, GitOps, Automated Deployments |
-| **Languages** | Go, Python, JS / NodeJS, Shell Scripting |
-| **Web & Traffic** | NGINX, Apache, KrakenD, Load Balancing |
-| **Data** | PostgreSQL, MongoDB, InfluxDB |
+| **Security** | AuthN/AuthZ, OAuth2, SSL/TLS, Zero Trust |
 | **Observability** | ELK Stack, New Relic |
-| **Security** | AuthN / AuthZ / OAuth2, SSL/TLS, KeyCloak |
-| **IIoT & Industry** | Industrial IoT, Renewable Energy |
-| **Systems** | Unix/Linux Admin, VMware, TCP/IP |
-| **Version Control** | Git |
+| **Languages** | Go, Python, JS, Shell |
 
 ---
 
@@ -33,38 +25,19 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 
 > *If you don't have time to build it right today, you definitely won't have time to fix it when it blows up in production.*
 
-MVPs — or should I say **Mostly Vulnerable Products** — have become the industry's favorite excuse for cutting corners and calling it "iteration." But let's be honest: technical debt doesn't wait politely in your backlog — it accrues like bad interest and bites back at 3 AM. I always say: your users aren't lab rats. Shipping broken things just to "see what happens" isn't agility — it's reckless roulette.
+MVPs — or should I say **Mostly Vulnerable Products** — have become the industry's favorite excuse for cutting corners and calling it "iteration." But let's be honest: technical debt doesn't wait politely in your backlog — it accrues like bad interest and bites back at 3 AM. Your users aren't lab rats. Shipping broken things just to "see what happens" isn't agility — it's reckless roulette.
 
-That's why I advocate for **MaxVP — Maximum Viable Product** — where viability means sustainability, maintainability, and a little bit of pride. Around here, we build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm. Because if you're going to build it, build it like someone's future depends on it — because it probably does.
+That's why I advocate for **MaxVP — Maximum Viable Product** — where viability means sustainability, maintainability, and a little bit of pride. Build it like someone's future depends on it — because it probably does.
 
 ---
 
 ### Certifications
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQHQqbT_XVnZgw/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1735600700017?e=1776646800&v=beta&t=v6S6LWlD0k10Bit7uUAryHasHXw0_24pE5QjR3YO8rw" width="200"/><br/>
-<b>AWS Certified Solutions Architect - Professional</b><br/>
-<sub>Amazon Web Services | Dec 2024</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQFByMYDrNJqfQ/profile-treasury-document-cover-images_1920/B4DZbuSXTJGwBE-/0/1747754516162?e=1776646800&v=beta&t=GT-UQIVhOYrk2MUoNZ1qUSd_7vL7qYpStf4xz79pUh8" width="200"/><br/>
-<b>Microsoft Certified Professional</b><br/>
-<sub>Microsoft | Apr 2012</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQGY9l4Vua0S9w/profile-treasury-document-images_1280/B4DZbuSsVuHQAg-/1/1747754602340?e=1776902400&v=beta&t=x2TzYX11xCf4ZGUNljAyy3WZPgOlvMQTPTZZI3bKY3s" width="200"/><br/>
-<b>MCITP: Enterprise Administrator</b><br/>
-<sub>Microsoft | Oct 2008</sub>
-</td>
-</tr>
-</table>
+**AWS Solutions Architect - Professional** · **MCITP: Enterprise Administrator** · **Microsoft Certified Professional**
 
 ---
 
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunasakar)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/tunasakar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
