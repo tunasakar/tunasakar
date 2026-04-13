@@ -13,13 +13,17 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 | Domain | Stack |
 |--------|-------|
 | **Cloud** | AWS, Azure |
-| **IaC & Config** | Terraform / HashiCorp Stack, Ansible, YAML |
-| **Containers & Orchestration** | Docker / Podman / ContainerD, Kubernetes / Rancher / OpenShift |
-| **CI/CD** | Pipelines, GitOps, Automated Deployments |
-| **Languages** | Go, Python, JS |
-| **Web & Traffic** | NGINX, Apache |
-| **Observability** | ELK Stack |
-| **Security** | AuthN / AuthZ / TLS |
+| **Enterprise AI** | Azure AI Foundry, Amazon Bedrock |
+| **Architecture** | Cloud-Native, API-First, Event-Driven Systems, Distributed Intelligence |
+| **IaC & Config** | Terraform / HashiCorp Stack, Ansible Automation, YAML |
+| **Containers & Orchestration** | Docker / Podman / ContainerD, Kubernetes / Rancher / OpenShift, Hyper-V |
+| **CI/CD** | Jenkins, Pipelines, GitOps, Automated Deployments |
+| **Languages** | Go, Python, JS / NodeJS, Shell Scripting |
+| **Web & Traffic** | NGINX, Apache, KrakenD, Load Balancing |
+| **Data** | PostgreSQL, MongoDB, InfluxDB |
+| **Observability** | ELK Stack, New Relic |
+| **Security** | AuthN / AuthZ / OAuth2, SSL/TLS, KeyCloak |
+| **AI & Autonomous Systems** | IIoT, Renewable Energy, Distributed Intelligence |
 | **Systems** | Unix/Linux Admin, VMware, TCP/IP |
 | **Version Control** | Git |
 
