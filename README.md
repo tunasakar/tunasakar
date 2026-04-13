@@ -12,7 +12,8 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 
 | | |
 |---|---|
-| **Platform & Cloud** | AWS, Azure, Kubernetes, Terraform, Docker, CI/CD |
+| **Platform & Cloud** | AWS, Azure, Kubernetes, ~~Terraform~~ Pulumi, Docker, Linux |
+| **CI/CD** | ArgoCD, Jenkins, GitOps, Pipelines |
 | **Architecture** | Cloud-Native, API-First, Event-Driven, IIoT |
 | **Enterprise AI** | Azure AI Foundry, Amazon Bedrock |
 | **Security** | AuthN/AuthZ, OAuth2, SSL/TLS, Zero Trust |
