@@ -33,7 +33,9 @@ you'll find me sipping cay and whispering sweet nothings to my <code>.bashrc</co
 
 > *If you don't have time to build it right today, you definitely won't have time to fix it when it blows up in production.*
 
-I advocate for **MaxVP — Maximum Viable Product** — where viability means sustainability, maintainability, and a little bit of pride. We build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm. Because if you're going to build it, build it like someone's future depends on it — because it probably does.
+MVPs — or should I say **Mostly Vulnerable Products** — have become the industry's favorite excuse for cutting corners and calling it "iteration." But let's be honest: technical debt doesn't wait politely in your backlog — it accrues like bad interest and bites back at 3 AM. I always say: your users aren't lab rats. Shipping broken things just to "see what happens" isn't agility — it's reckless roulette.
+
+That's why I advocate for **MaxVP — Maximum Viable Product** — where viability means sustainability, maintainability, and a little bit of pride. Around here, we build clean infrastructure, document the messes we inherit, and season our commit messages with just the right amount of sarcasm. Because if you're going to build it, build it like someone's future depends on it — because it probably does.
 
 ---
 
@@ -65,6 +67,4 @@ I advocate for **MaxVP — Maximum Viable Product** — where viability means su
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunasakar)
 
----
 
-<p align="center"><i>Fork a repo, trigger a workflow, and remember — if you're not automating something, are you even alive?</i></p>
